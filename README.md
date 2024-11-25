@@ -28,7 +28,7 @@ Every day, I’ll commit to:
 | 002 | Python   | Web Scraper       |
 | ... | ...      | ...               |
 
-Follow my journey through the [**100DaysOfCode repository**](https://github.com/your-repo-url)!
+Follow my journey through the [**100DaysOfCode repository**](https://github.com/michaelxxf/100-days-python-challenge)!
 
 ---
 
